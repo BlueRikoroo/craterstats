@@ -1,0 +1,18 @@
+
+# Starting directory for File-Open operations
+#
+# e.g. work_dir= 'd:\mydocs\'
+work_dir = '../../'
+
+
+# Randomness/clustering measure
+# Possible values: 
+#    sdaa  - standard deviation of adjacent area
+#    m2cnd - mean 2nd closest neighbour distance
+measure = m2cnd
+
+# No. of Monte Carlo iterations (note that sdaa simulations take longer to evaluate than m2cnd or mcnp)
+iterations = 300
+
+# Binning - recommend 'root-2'; 'x2' and '4th root-2' also possible
+binning = 'root-2'

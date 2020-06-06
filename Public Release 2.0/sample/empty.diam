@@ -1,0 +1,12 @@
+# Empty sample .diam file for Craterstats
+# use file like this to represent uncratered unit (modify area as required)
+#
+# area, km^2
+area = 100.
+#
+#
+#
+# 
+crater = {diameter
+1e-5  ;at least one value must be present to create valid array. 1e-5 km= 1cm
+}

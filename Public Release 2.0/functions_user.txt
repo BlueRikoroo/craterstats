@@ -1,0 +1,34 @@
+
+# Add your own functions modelled after those in functions.txt here
+#
+# When you update craterstats, functions_user.txt can be copied over to new installation
+#
+#
+# In the 'name' field, use the format "bodyname, reference/identifier" for software to categorise by body
+#
+
+
+
+#sample definition
+
+#chronology_system={
+#  body='Moon'
+#  name='Moon, Neukum (1983)'
+#  cf='Moon, Neukum (1983)'
+#  pf='Moon, Neukum (1983)'
+#}
+#
+#production={
+#   name='Moon, Neukum (1983)'
+#   coefficients=*[-2.5339,-3.6269,0.43662,0.79347,0.086468,-0.26485,-0.066382,0.037923,0.010596,-0.0022496,-0.00051797,0.0000397]
+#   range=[.01,300.]
+#}
+#
+#
+#chronology={
+#    name='Moon, Neukum (1983)'
+#    coefficients=[5.44E-14,6.93E0,0,8.38E-4]
+#    reference='Neukum, G., 1983. Meteoritenbombardement und Datierung planetarer Oberflächen. Habilitation Dissertation. Ludwig Maximilianis Univ., Munich.'    
+#}
+
+
